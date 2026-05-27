@@ -98,7 +98,7 @@ CARA MENJALANKAN
 ================================================================================
 
 HASIL PROGRAM
-
+Figure_1.png
 Contoh output yang muncul di terminal:
 
 Nilai Fitness Terbaik: 329
